@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "ConectaMa",
+    "slug": "ConectaMa",
+    "version": "1.4.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.diegobfcy.ConectaMa"
+    },
+    "android": {
+      "googleServicesFile": "google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/adaptive-icon.png",
+        "backgroundColor": "#43A89B"
+      },
+      "package": "com.diegobfcy.ConectaMa"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./src/assets/fonts/SignikaNegative-Regular.ttf"
+          ]
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "00acd416-7bd8-42c6-853a-7a7281e76f89"
+      }
+    }
+  }
+}

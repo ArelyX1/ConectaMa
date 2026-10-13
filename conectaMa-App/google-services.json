@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "2725699874",
+    "firebase_url": "https://mamasproject-80598-default-rtdb.firebaseio.com",
+    "project_id": "mamasproject-80598",
+    "storage_bucket": "mamasproject-80598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2725699874:android:ef5688f130e9f8a442457b",
+        "android_client_info": {
+          "package_name": "com.conectaMa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd8cGdCBH6XkkC-nCAvadd2kgFGArpCz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2725699874:android:dfd0e3182cf2170242457b",
+        "android_client_info": {
+          "package_name": "com.diegobfcy.ConectaMa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd8cGdCBH6XkkC-nCAvadd2kgFGArpCz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
